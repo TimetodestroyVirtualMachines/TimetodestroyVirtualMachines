@@ -1,3 +1,4 @@
+@echo off
 cd C:\
 cd Users
 start notepad.exe
